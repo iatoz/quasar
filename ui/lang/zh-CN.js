@@ -86,7 +86,7 @@ module.exports = {
     size6: '非常大',
     size7: '超级大',
     defaultFont: '默认字体',
-    viewSource: '查看资料'
+    viewSource: '查看源代码'
   },
   tree: {
     noNodes: '没有可用节点',
